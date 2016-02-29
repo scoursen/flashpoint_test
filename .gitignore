@@ -1,0 +1,19 @@
+syntax: glob
+*.pyc
+*.pyo
+*~
+*.class
+.installed.cfg
+.git
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+env/*
+data/*
+target/*
+*.orig
+*.sqlite3
